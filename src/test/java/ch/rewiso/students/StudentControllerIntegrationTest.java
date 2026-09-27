@@ -1,7 +1,7 @@
 package ch.rewiso.students;
 
-import ch.rewiso.students.dto.StudentRequest;
-import ch.rewiso.students.dto.StudentResponse;
+import ch.rewiso.students.adapter.in.web.StudentRequest;
+import ch.rewiso.students.adapter.in.web.StudentResponse;
 import tools.jackson.databind.JsonNode;
 import tools.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.DisplayName;

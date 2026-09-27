@@ -1,4 +1,4 @@
-package ch.rewiso.students.dto;
+package ch.rewiso.students.adapter.in.web;
 
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotBlank;
