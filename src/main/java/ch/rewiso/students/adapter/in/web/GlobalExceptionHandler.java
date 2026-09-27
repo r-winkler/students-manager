@@ -1,6 +1,6 @@
-package ch.rewiso.students.advice;
+package ch.rewiso.students.adapter.in.web;
 
-import ch.rewiso.students.exceptions.StudentNotFoundException;
+import ch.rewiso.students.application.exception.StudentNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ProblemDetail;
 import org.springframework.validation.FieldError;

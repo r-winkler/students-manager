@@ -1,4 +1,4 @@
-package ch.rewiso.students.exceptions;
+package ch.rewiso.students.application.exception;
 
 public class StudentNotFoundException extends RuntimeException {
 

@@ -1,4 +1,4 @@
-package ch.rewiso.students.dto;
+package ch.rewiso.students.adapter.in.web;
 
 public record StudentResponse(
         Long id,
